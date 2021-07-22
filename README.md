@@ -3,6 +3,9 @@
 
 <br/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansingh56&label=Profile%20views&color=0e75b6&style=flat" alt="rohansingh56" /> </p>
+
+
 - Passionate about learning new things. 😀
 - Having knowledge on C, C++, html, java, python. 😎
 - Besides that I love gaming and listening to music. 😁
@@ -30,3 +33,7 @@
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+
+<br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohansingh56&show_icons=true&locale=en&layout=compact" alt="rohansingh56" /></p>
