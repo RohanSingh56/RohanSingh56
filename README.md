@@ -8,9 +8,10 @@
 
 <br/>
 
-- Passionate about learning new things. 😀
-- Ask me about C++, HTML and CSS. 💬
-- Besides that I love gaming and listening to music. 😁
+- Passionate about learning new things 😀
+- Ask me about C++, HTML and CSS 💬
+- Open to collaborate 🤝
+- Besides that I love gaming and listening to music 😁
  
 
 <br/>
