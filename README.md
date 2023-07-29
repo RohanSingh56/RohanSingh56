@@ -9,8 +9,9 @@
 <br/>
 
 - Passionate about learning new things 😀
-- Ask me about C++, HTML and CSS 💬
+- Ask me about C++,HTML,CSS, JavaScript and React 💬
 - Open to collaborate 🤝
+- Currently learning MERN stack 😎 
 - Besides that I love gaming and listening to music 😁
  
 
